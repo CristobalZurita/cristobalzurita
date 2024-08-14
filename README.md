@@ -6,7 +6,7 @@
 Hola, mi nombre es Cristobal Zurita Quintanilla 👋
 ### Técnico en Electrónica y Automatización Industrial.
 
-Soy técnico profesional desde 2018.
+Soy técnico profesional desde 2018, me dedico a la programación, desarrollo, diseño de palas PCB, diseño de circuitos impresos, IOT. Tambíen me gusta la música y el cine.
 
 Pero mis inicios se remontan al 2006, cuando conmencé a estudiar profundamente los sintetizadores musicales y sus posibilidades. Viendome envuelto en la integración de dichos aparatos, como también en su mantenimiento básico. Fueron los primeros pasos que permitieron años más tarde dedicarme a la programación en electrónica, desarrollo, creación de placas PCB, diseño de electrónica y más.  
 
