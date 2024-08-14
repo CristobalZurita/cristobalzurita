@@ -13,7 +13,7 @@ Pero mis inicios se remontan al 2006, cuando conmencé a estudiar profundamente 
 
 ## Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crist%C3%B3bal-nicol%C3%A1s-zurita-quintanilla-baa320115/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/crist%C3%B3bal-nicol%C3%A1s-zurita-quintanilla-baa320115/)
 </br>
 [![Email](https://img.shields.io/badge/cristobal.z.q@gnailcom-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristobal.z.q@gnailcom)
 </br>
