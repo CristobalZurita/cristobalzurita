@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+  
 ![https://github.com/CristobalZurita](./czlogo.png)
 </div>
 
@@ -29,6 +30,6 @@ Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes s
 <div style="text-align: center;">
 
 ![https://github.com/CristobalZurita](./czsec.png)
-![https://github.com/CristobalZurita](./czlogo.png)
+
 
 </div>
