@@ -4,6 +4,8 @@
 </div>
 
 Hola, mi nombre es Cristóbal Zurita Quintanilla 👋 [<i class="fi fi-rr-drum"></i>](https://www.flaticon.com/)
+
+<br>
 Soy Técnico en Electrónica y Automatización Industrial.
 
 Me desempeño como técnico profesional desde 2018, dedicándome a la programación, desarrollo, diseño de placas PCB, diseño de circuitos impresos e IoT. También me apasionan la música y el cine.
