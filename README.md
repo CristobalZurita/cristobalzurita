@@ -3,7 +3,7 @@
 ![https://github.com/CristobalZurita](./czlogo.png)
 </div>
 
-Hola, mi nombre es Cristóbal Zurita Quintanilla 👋 [<i class="fi fi-rr-drum"></i>](https://www.flaticon.com/)
+Hola, mi nombre es Cristóbal Zurita Quintanilla 👋 🥁 🎥 🎹
 
 <br>
 Soy Técnico en Electrónica y Automatización Industrial.
